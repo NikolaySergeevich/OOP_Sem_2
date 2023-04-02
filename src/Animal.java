@@ -1,9 +1,16 @@
+/**
+ * Абстрактный класс, который внедряет в себя интерфейс Speakable.
+ * Все классы-наследники будут обязаны использовать методы, которые описаны в Speakable
+ */
 public abstract class Animal implements Speakable{
     private String name;
     private boolean alive;
 
 
-
+    /**
+     * Метод определяет кто что кушает
+     * @return
+     */
     public abstract String feed();
 
     public Animal(String name) {

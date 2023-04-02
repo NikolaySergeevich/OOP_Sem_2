@@ -1,3 +1,7 @@
+/**
+ * Класс "Корова". Наследник от Herbivore - травоядные.implements Walkable -
+ *  * означает, что мы пометили корову свойством ходить и присваеваем корове скорость.
+ */
 public class Cow extends Herbivore implements Walkable{
     public Cow(String name) {
         super(name);

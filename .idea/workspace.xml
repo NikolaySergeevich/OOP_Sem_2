@@ -1,11 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="21592782-ccb8-4e83-933c-cc38a6f48d4a" name="Changes" comment="" />
+    <list default="true" id="21592782-ccb8-4e83-933c-cc38a6f48d4a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Crocodile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Swimable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Flyable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Flysquirrel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Flysquirrel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Goat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Goat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Herbivore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Herbivore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Platypus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Platypus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Predator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Predator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Radio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Speakable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Speakable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Walkable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Walkable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zoo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NkLL87hRY91gR5vXXuuShld1eV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,9 +54,24 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Учёба в GB/OOP_hom/OOP_Hom_2"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="OOP_Sem_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,5 +82,16 @@
       <updated>1680203076660</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

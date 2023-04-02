@@ -1,3 +1,6 @@
+/**
+ * Класс "Козёл" наследник травоядных.
+ */
 public class Goat extends Herbivore implements Walkable{
     public Goat(String name) {
         super(name);
